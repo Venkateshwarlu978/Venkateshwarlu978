@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sriramadasu Venkateshwarlu</h1>
+
 <h3 align="center">
 Aspiring Data Scientist | Machine Learning Engineer | AI/ML Engineer | Data Engineer
 </h3>
@@ -7,10 +8,10 @@ Aspiring Data Scientist | Machine Learning Engineer | AI/ML Engineer | Data Engi
 
 ## 🚀 About Me
 - 🎓 MCA Final Year Student (Graduating in 2026)
-- 🔭 Currently working on **Machine Learning Algorithms & Real-world Projects**
-- 🌱 Learning **Machine Learning, Deep Learning, NLP, and LLMs**
+- 🔭 Currently working on **Machine Learning and AI Projects**
+- 🌱 Skilled in **Machine Learning, Deep Learning, NLP, Transformers, LangChain, and RAG**
 - 💡 Interested in **AI Systems, Data Engineering, and Big Data Analytics**
-- 🎯 Actively looking for **Data Scientist / ML Engineer / AI/ML Engineer / Data Engineer roles**
+- 🎯 Actively seeking opportunities as **Data Scientist / ML Engineer / AI/ML Engineer / Data Engineer**
 
 ---
 
@@ -29,15 +30,18 @@ Aspiring Data Scientist | Machine Learning Engineer | AI/ML Engineer | Data Engi
 - MS SQL Server
 
 ### Data & AI
-- Machine Learning
-- Deep Learning (Learning Phase)
-- NLP (Learning Phase)
-- Model Deployment (Streamlit)
+- Machine Learning (Supervised & Unsupervised)
+- Deep Learning
+- Natural Language Processing (NLP)
+- Transformers & Large Language Models (LLMs)
+- LangChain Framework
+- Retrieval-Augmented Generation (RAG)
+- Model Deployment using Streamlit
 
 ### Visualization
-- D3.js
 - Matplotlib
 - Seaborn
+- D3.js
 
 ---
 
@@ -50,24 +54,23 @@ Aspiring Data Scientist | Machine Learning Engineer | AI/ML Engineer | Data Engi
 - Validated predictions using test cases
 
 ### 🔹 Pixel Coordinate Prediction
-- Machine Learning model to predict coordinates
-- GitHub Repository:
+- Machine Learning model to predict pixel coordinates  
+- Repository:
 👉 https://github.com/Venkateshwarlu978/pixel-coordinate-prediction
 
-*(More projects coming soon…)*
+*(More AI and Data Engineering projects coming soon…)*
 
 ---
 
 ## 📊 Currently Exploring
-- LLM Applications
-- Deep Learning Architectures
+- Advanced LLM Applications
 - Data Engineering Fundamentals
-- Big Data Ecosystem (Spark, Hadoop – learning stage)
+- Big Data Ecosystem (Spark, Hadoop)
+- Model Optimization and Deployment
 
 ---
 
 ## 📫 Connect With Me
-
 - 📧 Email: **svenkateshwarlu978@gmail.com**
 - 💼 LinkedIn:  
 👉 https://www.linkedin.com/in/venkateshwarlu978
@@ -75,9 +78,9 @@ Aspiring Data Scientist | Machine Learning Engineer | AI/ML Engineer | Data Engi
 ---
 
 ## ⚡ Career Objective
-I aim to build scalable data-driven systems and intelligent AI solutions that solve real-world problems. I am continuously improving my skills in machine learning, data engineering, and system design.
+I aim to build scalable data-driven systems and intelligent AI solutions that solve real-world problems. I am passionate about Machine Learning, Data Engineering, and AI-driven applications, and continuously work on improving my skills.
 
 ---
 
-⭐ *Thanks for visiting my profile!*
+⭐ Thanks for visiting my profile!
 
